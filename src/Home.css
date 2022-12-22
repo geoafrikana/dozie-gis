@@ -1,0 +1,21 @@
+.hero{
+    width: 100%;
+    align-items: center;
+    justify-content:center;
+    height: 80vh;
+    background: url('https://picsum.photos/500');
+  }
+  .hero div{
+    text-align: center;
+  }
+  .container{
+    max-width:  1128px;
+
+  }
+  .row{
+    display: flex;
+  }
+  .container h2{
+    background-color:blanchedalmond;
+    text-align: center;
+  }
